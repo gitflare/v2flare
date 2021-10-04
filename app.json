@@ -1,0 +1,16 @@
+{
+  "name": "v2flare",
+  "description": "v2flare",
+  "keywords": [
+    "v2flare"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "a92aa28f-9f02-2297-f9f8-948b07a06d5d"
+    }
+  },
+  "website": "https://github.com/gitflare/",
+  "repository": "https://github.com/gitflare/v2flare",
+  "stack": "container"
+}
